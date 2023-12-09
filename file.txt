@@ -1,2 +1,0 @@
-this is my initial content
-this is my feature branch content
